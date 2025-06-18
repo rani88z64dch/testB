@@ -1,2 +1,2 @@
 from .submodule.test_subm import test
-print(test.greeting+"こちらは本番testブランチ")
+print(test.greeting+"06181647")
